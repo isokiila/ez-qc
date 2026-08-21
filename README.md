@@ -2,6 +2,8 @@
 
 EZ-QC! A beginner-friendly GUI for creating and compiling simple Source Engine model QC files.
 
+Don't know how to write QC files or find the process of compiling models too hard and slow? With EZ-QC! you can compile your models through a simple menu. All you need is your smd model.
+
 <h3>Current features:</h3>
 
 Simple GUI for selecting:
