@@ -17,4 +17,6 @@ Right now it's disabled because anything you do will be overwritten as soon as y
 
 Download Prerelease 0.1: https://github.com/isokiila/ez-qc/releases/tag/Prerelease
 
+I am planning to eventually add support for materials so that you don't need to move them to the folders yourself, aswell as a tool to help making vmt files.
+
 <img src="https://github.com/isokiila/ez-qc/blob/main/screenshot.png">
