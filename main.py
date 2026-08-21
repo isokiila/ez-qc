@@ -588,7 +588,7 @@ def change_game():
 window = tk.Tk()
 
 window.title("EZ-QC!")
-window.geometry("550x900")
+window.geometry("550x950")
 
 # Title Frame
 
