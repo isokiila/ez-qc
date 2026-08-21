@@ -2,7 +2,8 @@
 
 EZ-QC! A beginner-friendly GUI for creating and compiling simple Source Engine model QC files.
 
-#Current features
+<h3>Current features:</h3>
+
 Simple GUI for selecting:
 - visual model
 - physics model
@@ -15,7 +16,7 @@ Simple GUI for selecting:
 
 It also includes a real time preview of the QC file.
 
-Planned features
+<h3>Planned features</h3>
 - Let user write additional stuff to the qc file from the preview window
 - Help user with textures and materials
 - More settings
