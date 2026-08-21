@@ -2,20 +2,27 @@
 
 EZ-QC! A beginner-friendly GUI for creating and compiling simple Source Engine model QC files.
 
-What to expect from release:
-Wizard-like GUI for selecting things such as:
+#Current features
+Simple GUI for selecting:
 - visual model
 - physics model
-- materials path
-- alternate skins
-- prop data
+- $concave
 - mass
-- much more
+- materials path
+- alternstive skins (automatically detects materials from smd file)
+- prop base type
+- health
 
-It also includes a real time preview of the QC file and eventually it will let the user write additional stuff if needed. 
-Right now it's disabled because anything you do will be overwritten as soon as you change a setting.
+It also includes a real time preview of the QC file.
 
-Download Prerelease 0.1: https://github.com/isokiila/ez-qc/releases/tag/Prerelease
+Planned features
+- Let user write additional stuff to the qc file from the preview window
+- Help user with textures and materials
+- More settings
+- Clean up the UI
+- Save/load presets
+
+Download latest: https://github.com/isokiila/ez-qc/releases/tag/Prerelease
 
 I am planning to eventually add support for materials so that you don't need to move them to the folders yourself, aswell as a tool to help making vmt files.
 
