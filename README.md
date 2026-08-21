@@ -11,3 +11,5 @@ Wizard-like GUI for selecting things such as:
 - much more
 
 It will also include a real time preview of the QC file and let the user write additional stuff if needed
+
+<img src="https://github.com/isokiila/ez-qc/blob/main/screenshot.png">
