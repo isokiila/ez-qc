@@ -5,14 +5,14 @@ EZ-QC! A beginner-friendly GUI for creating and compiling simple Source Engine m
 <h3>Current features:</h3>
 
 Simple GUI for selecting:
-- visual model
-- physics model
+- Visual model
+- Physics model
 - $concave
-- mass
-- materials path
-- alternstive skins (automatically detects materials from smd file)
-- prop base type
-- health
+- Mass
+- Materials path
+- Alternative skins (automatically detects materials from smd file)
+- Prop base type
+- Health
 
 It also includes a real time preview of the QC file.
 
