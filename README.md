@@ -17,6 +17,7 @@ Simple GUI for selecting:
 It also includes a real time preview of the QC file.
 
 <h3>Planned features</h3>
+
 - Let user write additional stuff to the qc file from the preview window
 - Help user with textures and materials
 - More settings
@@ -24,7 +25,5 @@ It also includes a real time preview of the QC file.
 - Save/load presets
 
 Download latest: https://github.com/isokiila/ez-qc/releases/tag/Prerelease
-
-I am planning to eventually add support for materials so that you don't need to move them to the folders yourself, aswell as a tool to help making vmt files.
 
 <img src="https://github.com/isokiila/ez-qc/blob/main/screenshot.png">
